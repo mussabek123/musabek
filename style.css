@@ -1,0 +1,34 @@
+body{    margin: 0;
+    font-family: "Roboto", sans-serif;}
+.hero{    background-color: #1fafb9;
+    color: #FBFADA;    height: 100vh;
+    display: flex;    font-family: "Dancing Script", cursive;
+}.korobka{
+    align-items: center;    justify-content: center;
+    display: flex;    height: 100vh;
+    margin: 0 15px;    padding: 0 100px;
+    width: 50%;}
+h1{    line-height: 120px;
+    margin: 50px 0;    font-size: 9rem;
+}h2{
+    font-size: 2rem;    margin: 0;
+    font-weight: 400;}
+h3{    font-size: 2rem;
+    margin: 0;    font-weight: 400;
+}
+.photo{    width: 100%;
+    border: 10px solid rgb(255, 255, 255);    rotate: -5deg;
+   }
+.prizrak{    z-index: 5;
+   background-color: white;    box-shadow: 0 0 300px 100px white;
+}.textcenter{ 
+    background-color: #63d57d;    text-align: center; 
+} h1{ 
+    margin: 0; } 
+.btn{     background-color: black; 
+    color: white;     padding: 10px 10px 10px 10px; 
+    border-radius: 10px; }
+.kor{    align-items: center;
+    justify-content: center;    display: flex;
+    padding: 0 100px;    width: 50%;
+}
